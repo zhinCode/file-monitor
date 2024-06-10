@@ -18,8 +18,8 @@ Log files are encoded in UTF-8.
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/zhinCode/file-monitor.git
+    cd file-monitor
     ```
 
 2. Install dependencies:
